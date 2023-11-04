@@ -1,0 +1,4 @@
+1. Crear base de datos manualmente, la query completa se encuentra en ./DataBase/tables.sql para hacer copy/paste y en 
+.env se puede configurar el usuario y la contraseña
+
+2. Poblacionar con npm run populate
